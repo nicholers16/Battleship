@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NRBattleship:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NRBattleship_jar</output-path>
+    <root id="archive" name="NRBattleship.jar">
+      <element id="module-output" name="NRBattleship" />
+    </root>
+  </artifact>
+</component>
